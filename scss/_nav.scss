@@ -1,0 +1,24 @@
+nav 
+{
+  ul 
+  { 
+    li{
+    list-style: none;
+    display: inline-block;
+    padding: 20px 20px;
+    font-size: xx-large;
+
+  }
+}
+
+nav ul li a{
+   color: rgb(17, 0, 250);
+   text-decoration: none;
+   font-weight: bolds;
+}
+
+nav ul li a:hover{
+    color:  red;
+    transition: .5s;
+ }
+}
