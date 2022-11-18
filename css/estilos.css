@@ -2,6 +2,18 @@ body{
     margin: 0;
   }
 
+  .col{
+    background-color: aqua;
+    margin: 40px 30px;
+    padding:20px 20px ;
+    font-size: x-large;
+  
+  }
+  .container-fluid{
+    flex: content;
+  
+  }
+
 header{
     display: flex ;
     min-height: 85px;
@@ -61,7 +73,7 @@ nav ul li a:hover{
     display: flex;
     margin: 10px 10px;
     padding: 10px 10px;
-    font-size: 100px;
+    font-size: 50px;
     font-weight: bold;
    }
 
@@ -93,8 +105,23 @@ nav ul li a:hover{
   background-color: blue;
   text-decoration-color: black;
    }
+   #edit{
+    background-color: black;
+   
+     }
 
 
    .social img:hover {
 transform: scale(1.2);
    }
+
+   .foot{
+    background-color: black;
+    padding: 15px 15px;
+       }
+
+
+       #footer1{
+    text-align: center;
+    padding: 15px 15px;
+       }
