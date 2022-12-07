@@ -21,6 +21,7 @@ header{
     align-items: center;
     padding: 5px 10%;
     justify-content: center;
+    color: blueviolet;
 }
 
 .logo{
@@ -83,8 +84,61 @@ nav ul li a:hover{
 
    .container-fluid{
     padding-top: 20px;
+    margin: 20px 20px;  
+   }
+
+   .serv{
+    background-color: blueviolet;
+    font-size: 40px;
+    font-style: oblique;
+    color: goldenrod;
+    margin-bottom: 30px;
+   }
+
+   .serv2{
+    font-size: 30px;
+    font-style: oblique;
+    color: goldenrod;
+   }
+
+  #noticias1{
+     margin: 20px 20px;
+  }
+  #noticias2{
     margin: 20px 20px;
-    
+ }
+ #noticias3{
+  margin: 20px 20px;
+}
+#noticias4{
+  margin: 20px 20px;
+}
+#noticias5{
+  margin: 20px 20px;
+}
+
+  .subti{
+    font-size: 19px;
+    font-weight: bold;
+  }
+
+   .serv3{
+    font-size: 40px;
+    font-style: oblique;
+    color: goldenrod;
+    text-align: center;
+   }
+
+   .foto1{
+    background-color: black;
+    margin-left: 255px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    align-items: center;
+   }
+   .parrajura{
+    text-align: center;
+    margin: 10px 100px;
    }
 
    .containerfooter{
@@ -105,12 +159,13 @@ nav ul li a:hover{
   background-color: blue;
   text-decoration-color: black;
    }
-   #edit{
+   #edit1{
     background-color: black;
-   
      }
 
-
+     #edit2{
+      background-color: black;
+       }
    .social img:hover {
 transform: scale(1.2);
    }
@@ -125,3 +180,21 @@ transform: scale(1.2);
     text-align: center;
     padding: 15px 15px;
        }
+
+       .mapa{
+      margin: 0px 330px;
+      background-color: cadetblue;
+      padding-top: 4px;
+       }
+
+       .mapa1{
+        margin: 0px 330px;
+        background-color: cadetblue;
+        padding-top: 4px;
+         }
+         .map{
+          margin: 40px;
+          text-align: center;
+          font-weight: bold;
+         }
+       
